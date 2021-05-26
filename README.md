@@ -1,3 +1,4 @@
+
 # Creating a simple Robotic Model using ROS (Robot Operating Systems)
 
 ## Pre-requisites
@@ -35,6 +36,10 @@ To run the robot model, run the commands given below
 roslaunch waiterbot display.launch
 ```
 Voila, you get the waiterbot in your rviz window along with a pop-up gui for controlling the robot movement!
+
+<p align="center" width="100%">
+<img src="https://user-images.githubusercontent.com/59824729/119692235-e0a94d00-be68-11eb-86bd-cb3e04cd7c77.gif" width="430" height="576" />
+</p>
 
 ## References
 
