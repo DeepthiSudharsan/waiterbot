@@ -33,3 +33,5 @@ roslaunch waiterbot display.launch
 Voila, you get the waiterbot in your rviz window along with a pop-up gui for controlling the robot movement!
 
 ## References
+
+1. http://wiki.ros.org/urdf/Tutorials/Building%20a%20Visual%20Robot%20Model%20with%20URDF%20from%20Scratch
