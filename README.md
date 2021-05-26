@@ -4,7 +4,11 @@
 
 This project was done using [ROS Noetic on Ubuntu](http://wiki.ros.org/noetic/Installation/Ubuntu). 
 
-## About the model
+## The Robot model
+
+<p align="center" width="100%">
+    <img width="33%" src="https://user-images.githubusercontent.com/59824729/119690418-4ac0f280-be67-11eb-913f-bb8e95fc9adf.png"> 
+</p>
 
 ## How to run?
 
