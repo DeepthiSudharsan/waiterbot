@@ -8,8 +8,9 @@ This project was done using [ROS Noetic on Ubuntu](http://wiki.ros.org/noetic/In
 ## The Robot model
 
 <p align="center" width="100%">
-    <img width="33%" src="https://user-images.githubusercontent.com/59824729/119690418-4ac0f280-be67-11eb-913f-bb8e95fc9adf.png"> 
+    <img width="33%" src="https://user-images.githubusercontent.com/59824729/119781981-42110080-bee9-11eb-8ac9-1dd602b7655c.png"> 
 </p>
+
 
 ## How to run?
 
@@ -36,10 +37,6 @@ To run the robot model, run the commands given below
 roslaunch waiterbot display.launch
 ```
 Voila, you get the waiterbot in your rviz window along with a pop-up gui for controlling the robot movement!
-
-<p align="center" width="100%">
-<img src="https://user-images.githubusercontent.com/59824729/119692235-e0a94d00-be68-11eb-86bd-cb3e04cd7c77.gif" width="430" height="576" />
-</p>
 
 ## References
 
